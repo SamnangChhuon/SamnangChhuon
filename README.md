@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm Samnang, you can call me Roger.!
 
-Hi, I'm Chhuon Samnang, a web developer 🚀 from Cambodia in Southeast Asia. Currently, I'm a web developer @PLAN-B CAMBODIA.
+Hi, I'm Chhuon Samnang, a web developer 🚀  from Cambodia in Southeast Asia. Currently, I'm a web developer @PLAN-B CAMBODIA.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
