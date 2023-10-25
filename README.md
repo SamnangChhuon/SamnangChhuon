@@ -1,15 +1,17 @@
 ### Hi there 👋 , I'm Samnang, you can call me Roger.!
 
-Hi, I'm Chhuon Samnang, a web developer 🚀  from Cambodia in Southeast Asia. Currently, I'm a FS Web Developer based in Phnom Penh.
+Hi, I'm Chhuon Samnang, a full-stack developer and a product manager @ SALATECH 🚀  from Phnom Penh, Cambodia in Southeast Asia.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on web application project based on Laravel;
+- 📊 I'm a product manager who vision the milestones and features of the products at SALATECH;
+- 🔭 I’m currently working on web application project based on Laravel and NuxtJS;
 - 🌱 I’m currently learning Flutter;
 - 👯 I’m looking to collaborate on web application 🤝;
 - 🤔 I’m looking for help with Flutter Developer to guide me;
+- 🔊 I’m improving on public speaking;
 - 💬 Ask me about anything, I will please to help;
 - 📫 How to reach me: sn.chh89@gmail.com
 - ⚡ Fun fact: I used to have a training program in Okinawa, Japan and I really love that place. However, I had discovered some impressive ideas while staying there that I can take it to my country to build a platform for help my people here.
