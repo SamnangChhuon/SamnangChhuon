@@ -1,35 +1,62 @@
-### Hi there 👋 , I'm Samnang, you can call me Roger.!
+## 👋 Hi, I’m Samnang (Roger)
 
-Hi, I'm Chhuon Samnang, a full-stack developer and a product manager @ SALATECH 🚀  from Phnom Penh, Cambodia in Southeast Asia.
+I’m **Chhuon Samnang**, an **Independent Full-Stack Developer & Product Builder** based in **Phnom Penh, Cambodia 🇰🇭**.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+I work as a **freelancer**, delivering complete website and web application solutions — from **requirements analysis and system design** to **development, deployment, and final handover**.
 
-**Talking about Personal Stuffs:**
+Alongside client work, I actively build **personal and experimental projects** focused on scalable architecture, product thinking, and real-world usability.
 
-- 📊 I'm a product manager who vision the milestones and features of the products at SALATECH;
-- 🔭 I’m currently working on web application project based on Laravel and NuxtJS;
-- 🌱 I’m currently learning Flutter;
-- 👯 I’m looking to collaborate on web application 🤝;
-- 🤔 I’m looking for help with Flutter Developer to guide me;
-- 🔊 I’m improving on public speaking;
-- 💬 Ask me about anything, I will please to help;
-- 📫 How to reach me: sn.chh89@gmail.com
-- ⚡ Fun fact: I used to have a training program in Okinawa, Japan and I really love that place. However, I had discovered some impressive ideas while staying there that I can take it to my country to build a platform for help my people here.
+---
 
-**Languages and Tools:**
+## 🚀 What I Do
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+- 🧠 **Product & Requirement Analysis**  
+  Translate business ideas into clear technical solutions and roadmaps
+
+- 💻 **Full-Stack Web Development**  
+  Build production-ready websites and web applications
+
+- 🧱 **System & API Design**  
+  Clean architecture, maintainable code, and scalable systems
+
+- 🚢 **End-to-End Delivery**  
+  From idea → MVP → production → documentation
+
+---
+
+## 🛠 Tech Stack
+
+**Backend:** Laravel, NestJS, REST APIs  
+**Frontend:** Nuxt.js, Next.js, React  
+**Database:** MySQL, PostgreSQL, Supabase  
+**DevOps:** Docker, CI/CD, Vercel  
+**Exploring:** Flutter 📱
+
+---
+
+## 🧪 Current Focus
+
+- Client website & web application development (freelance)
+- Experimental projects around **product systems and architecture**
+- Personal products aimed at solving **local and practical problems**
+
+---
+
+## 🤝 Open To
+
+- Freelance & contract projects  
+- Long-term product collaboration  
+- Technical consulting (architecture & product planning)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **sn.chh89@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+
+I participated in a professional training program in **Okinawa, Japan 🇯🇵**.  
+That experience shaped how I approach **discipline, systems thinking, and building products with purpose**.
